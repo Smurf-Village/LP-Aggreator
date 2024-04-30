@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Deployment
-https://ginpaws.replit.app/swap
+Deployed address: https://sepolia.scrollscan.com/address/0xF88673d105eb62f2E22323a559aaB69a9B870a75
